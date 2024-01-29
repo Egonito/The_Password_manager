@@ -1,4 +1,7 @@
 # The Password manager
+
+*BE SURE TO INSTALL THE SECURITY PATCH OR OTHERWISE THERE MIGHT BE A DATA LEAK*
+
 A free software to keep your passwords safely locked up. And in case you forget a password you can sign in and retrieve them.
 
 Here below i´m going to provide you with a tutorial how to use the python version:
